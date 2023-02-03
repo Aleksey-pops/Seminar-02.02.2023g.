@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Alekseisemenov/Documents/Seminar_02.02.2023g./Seminar_02.02.2023g..csproj": {}
+    "/Users/Alekseisemenov/Documents/Seminar_02.02.2023g./Find the sum of number sfrom 1 to A/Seminar_02.02.2023g..csproj": {}
   },
   "projects": {
-    "/Users/Alekseisemenov/Documents/Seminar_02.02.2023g./Seminar_02.02.2023g..csproj": {
+    "/Users/Alekseisemenov/Documents/Seminar_02.02.2023g./Find the sum of number sfrom 1 to A/Seminar_02.02.2023g..csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Alekseisemenov/Documents/Seminar_02.02.2023g./Seminar_02.02.2023g..csproj",
+        "projectUniqueName": "/Users/Alekseisemenov/Documents/Seminar_02.02.2023g./Find the sum of number sfrom 1 to A/Seminar_02.02.2023g..csproj",
         "projectName": "Seminar_02.02.2023g.",
-        "projectPath": "/Users/Alekseisemenov/Documents/Seminar_02.02.2023g./Seminar_02.02.2023g..csproj",
+        "projectPath": "/Users/Alekseisemenov/Documents/Seminar_02.02.2023g./Find the sum of number sfrom 1 to A/Seminar_02.02.2023g..csproj",
         "packagesPath": "/Users/Alekseisemenov/.nuget/packages/",
-        "outputPath": "/Users/Alekseisemenov/Documents/Seminar_02.02.2023g./obj/",
+        "outputPath": "/Users/Alekseisemenov/Documents/Seminar_02.02.2023g./Find the sum of number sfrom 1 to A/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Alekseisemenov/.nuget/NuGet/NuGet.Config"
